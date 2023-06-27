@@ -1,0 +1,9 @@
+.nav_dropdown {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.dropdown-text{
+    font-family: var(--text-font-family);
+}
